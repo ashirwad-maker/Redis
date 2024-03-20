@@ -1,4 +1,4 @@
-
+//Implementation of server. 
 
 #include <netinet/in.h>
 #include <stdio.h>
